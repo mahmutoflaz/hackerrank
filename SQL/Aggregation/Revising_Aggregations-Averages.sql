@@ -1,0 +1,3 @@
+-- https://www.hackerrank.com/challenges/revising-aggregations-the-average-function
+
+select avg(POPULATION) from CITY where DISTRICT = 'California';
